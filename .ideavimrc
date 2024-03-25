@@ -41,7 +41,9 @@ nnoremap d "_d
 " without yank
 vnoremap <leader>p "_dP
 
+"rename element under cursor"
 :map <leader>s <Action>(RenameElement)
 
+"set timeout between keystroke commands to 100ms"
 :set timeout timeoutlen=100 ttimeoutlen=100
 
