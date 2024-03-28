@@ -1,0 +1,8 @@
+com.mituuz.fuzzier
+IdeaVIM
+com.intellij.plugins.vscodekeymap
+youngstead.relative-line-numbers
+com.github.setial
+google-java-format
+net.ashald.envfile
+com.haulmont.jpab
